@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "City Life — Mumbai",
+      "hasCanvas": false,
+      "bodyTextLen": 1818,
+      "bodyTextHash": "0715fcfa218f301092f15c0e937c48727c92415b531e74da81154e5589512f3f",
+      "bodyTextPrefix": "City Life Mumbai · The island city that never quite sleeps SOS T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/live3.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "City Life — Mumbai",
+      "hasCanvas": false,
+      "bodyTextLen": 1818,
+      "bodyTextHash": "0715fcfa218f301092f15c0e937c48727c92415b531e74da81154e5589512f3f",
+      "bodyTextPrefix": "City Life Mumbai · The island city that never quite sleeps SOS T",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/live3-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/live3.json"
+}

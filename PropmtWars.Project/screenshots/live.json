@@ -1,0 +1,42 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "City Life — Mumbai",
+      "hasCanvas": false,
+      "bodyTextLen": 1678,
+      "bodyTextHash": "3101af488d49bc8378bde25bdfcb2fe742db9939cb2f7e2beac8f0fe4d632189",
+      "bodyTextPrefix": "City Life Mumbai · The island city that never quite sleeps SOS T",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+        "Failed to load resource: the server responded with a status of 429 (Too Many Requests)"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/live.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "City Life — Mumbai",
+      "hasCanvas": false,
+      "bodyTextLen": 1678,
+      "bodyTextHash": "3101af488d49bc8378bde25bdfcb2fe742db9939cb2f7e2beac8f0fe4d632189",
+      "bodyTextPrefix": "City Life Mumbai · The island city that never quite sleeps SOS T",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+        "Failed to load resource: the server responded with a status of 429 (Too Many Requests)"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/live-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/live.json"
+}
